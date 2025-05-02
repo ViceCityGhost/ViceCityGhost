@@ -41,7 +41,7 @@
 ---
 
 ## 📫 How to Reach Me
-- ✉️ Email: [your.email@uh.edu](mailto:vicevalle505@gmail.com)  
+- ✉️ Email: [vicevalle505@gmail.com](mailto:vicevalle505@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vicedany-valle-94b033363/)  
 - 💻 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
