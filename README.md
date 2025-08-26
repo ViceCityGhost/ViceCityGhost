@@ -34,7 +34,7 @@
 | Project | Tech | Description |
 |:---|:---|:---|
 | [FinalBankApp](https://github.com/dylannan52/banking-project) | Java, Swing, Apache POI | University capstone banking application with Excel integration for account data. |
-| [AnimeTracker](https://github.com/your-username/AnimeTracker) | Node.js, MongoDB, React | Full-stack web app to track anime episodes, schedules, and user reviews. |
+| [AnimeTracker](https://vicecityghost.github.io/amtracker/) | Node.js, MongoDB, React | Full-stack web app to track anime episodes, schedules, and user reviews. |
 | [RoguelikeGodot](https://github.com/your-username/RoguelikeGodot) | Godot, GDScript | 2D roguelike prototype with procedural dungeon generation. |
 | [OS-SyncLab](https://github.com/your-username/OS-SyncLab) | C, POSIX threads | Dining Philosophers and Banker’s algorithm implementations for CS4315. |
 
