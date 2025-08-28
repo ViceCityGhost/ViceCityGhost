@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, I’m Vice </h1>
 <p align="center">
   <em>Senior Computer Science student @ University of Houston</em><br>
-  <a href="https://www.uh.edu/">University of Houston</a> •
+  <a href="https://www.uh.edu/">University of Houston Downtown</a> •
   <a href="https://github.com/ViceCityGhost">GitHub</a> •
   <a href="https://www.linkedin.com/in/vicedany-valle-94b033363/">LinkedIn</a>
 </p>
