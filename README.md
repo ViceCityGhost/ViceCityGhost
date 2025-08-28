@@ -1,7 +1,7 @@
 <!-- 👋 Hi there, I’m Vice -->
 <h1 align="center">👋 Hey there, I’m Vice </h1>
 <p align="center">
-  <em>Senior Computer Science student @ University of Houston</em><br>
+  <em>Senior Computer Science student @ University of Houston Downtown</em><br>
   <a href="https://www.uh.edu/">University of Houston Downtown</a> •
   <a href="https://github.com/ViceCityGhost">GitHub</a> •
   <a href="https://www.linkedin.com/in/vicedany-valle-94b033363/">LinkedIn</a>
@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Senior majoring in Computer Science at the University of Houston
+- 🎓 Senior majoring in Computer Science at the University of Houston Downtown 
 - 💻 Passionate about building web apps, data-driven tools, and automation scripts
 - 🌱 Currently learning advanced Java frameworks & cloud deployment (AWS/GCP)
 - 🔭 Working on a banking/fintech app as my senior capstone project
