@@ -35,7 +35,7 @@
 |:---|:---|:---|
 | [FinalBankApp](https://github.com/dylannan52/banking-project) | Java, Swing, Apache POI | University capstone banking application with Excel integration for account data. |
 | [AnimeTracker](https://vicecityghost.github.io/amtracker/) | Node.js, Tailwind CSS, React,AniList GraphQL API | Full-stack web app to track anime episodes, schedules, and user reviews. |
-| [RoguelikeGodot](https://github.com/ViceCityGhost/-Titanic-Survival-Prediction-Project) | Godot, GDScript | 2D roguelike prototype with procedural dungeon generation. |
+| [🧪 Titanic Survival Predictor](https://github.com/ViceCityGhost/-Titanic-Survival-Prediction-Project) | Python, Pandas, Matplotlib, scikit-learn | Built ML models to predict passenger survival using EDA and classification |
 | [OS-SyncLab](https://github.com/your-username/OS-SyncLab) | C, POSIX threads | Dining Philosophers and Banker’s algorithm implementations for CS4315. |
 
 ---
