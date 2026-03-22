@@ -13,7 +13,7 @@
 - 🎓 Bachelors in Computer Science from the University of Houston Downtown 
 - 💻 Passionate about building web apps, data-driven tools, and automation scripts
 - 🌱 Currently learning advanced Java frameworks & cloud deployment (AWS/GCP)
-- 🔭 Working on a banking/fintech app as my senior capstone project
+- 🔭 Working on a banking/fintech app
 
 ---
 
